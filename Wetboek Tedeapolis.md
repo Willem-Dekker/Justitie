@@ -31,6 +31,8 @@
    * Waarschuwingen;
    * Taakstraffen;
    * Celstraffen;
+   * rijontzeggingen;
+   * inbeslagnames of invorderingen;
    * Boetes.
 2. Een opgelegde straf kan een combinatie zijn van de bovenstaande strafvormen.
 3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
@@ -236,7 +238,45 @@
 
 ## Titel III - Verkeersdelicten
 ![Titel III](https://i.imgur.com/bCaBrEy.png)
-### Artikel 
+
+### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
+1. Voor verkeersovertredingen in algemene zin, niet verder gespecificeerd als zijnde zwaardere delicten, geldt een boete van €140,-
+2. Afhankelijk van de aard van de overtreding kan door de dienstdoende agent kiezen een waarschuwing te geven in plaats van een boete.
+
+### Artikel III-2 Gevaar / hinter zonder ongeval (5 WVW)
+1. Schuldig is een persoon die zich zodanig gedraagd in het verkeer dat er sprake is van gevaar of (mogelijke) hinder op de openbare weg.
+2. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   |  | €1,000  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 5 uur | €1,500  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 10 uur | €2,000  | 0-24 uur |
+
+### Artikel III-3 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
+1. Schuldig is een persoon die een ongeval veroorzaakt door een gevaarlijke dan wel hinderlijke deelname aan het verkeer. 
+2. Licht lichamelijk letsel is in dezen alle letsel die ter plaatse, zonder ziekenhuisopname, ter behandelen is.
+3. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur  | €2,000  | 0-12 uur |
+| **Tweede Veroordeling**  |   | 15 uur | €3,000  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 20 uur | €4,000  | 0-24 uur |
+
+### Artikel III-3 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
+1. Schuldig is een persoon die een ongeval veroorzaakt door een gevaarlijke dan wel hinderlijke deelname aan het verkeer. 
+2. Zwaar lichamelijk letsel is in dezen alle letsel die niet ter plaatse te behandelen is.
+3. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|---|---|---|---|---|
+|  **Eerste Veroordeling** |   | 15 uur  | €5,000  | 0-24 uur |
+| **Tweede Veroordeling**  |   | 20 uur | €6,000  | 0-24 uur |
+| **Meerdere Veroordelingen**  |   | 25 uur | €7,000  | 0-24 uur |
+
+
+##
 
 ## Titel IV - Opiumwet (OW)
 ![Titel IV](https://i.imgur.com/Fu4cD1H.png)
