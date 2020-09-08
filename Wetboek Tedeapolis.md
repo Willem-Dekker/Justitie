@@ -47,27 +47,28 @@
 3. Wanneer een nieuwe overtreding of misdrijf wordt begaan, wordt deze tijd gereset naar de nieuwe datum van de laatst opgelegde celstraf.
 
 ## Titel I - Vermogensdelicten
+![Titel I](https://i.imgur.com/QYoLGtN.png)
 
 ### Artikel 1 
 
 ## Titel II - Geweldsdelicten
-
+![Titel II](https://i.imgur.com/U6KmYvP.png)
 ### Artikel  
 
 ## Titel III - Verkeersdelicten
-
+![Titel III](https://i.imgur.com/bCaBrEy.png)
 ### Artikel 
 
 ## Titel IV - Opiumwet (OW)
-
+![Titel IV](https://i.imgur.com/Fu4cD1H.png)
 ### Artikel  
 
 ## Titel V - Wet Wapens en Munitie (WWM)
-
+![Titel V](https://i.imgur.com/cyC9z68.png)
 ### Artikel  
 
 ## Titel VI - Overige
-
+![Titel VI](https://i.imgur.com/AZq2R6s.png)
 ### Artikel 
 ---------------------
 Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.
