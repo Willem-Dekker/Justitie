@@ -50,7 +50,7 @@
 2. Onderzoek, tenzij expliciet anders aangegeven, duurt in de regel maximaal twee (2) dagen.
    * Als na deze termijn geen conclusie is getrokken of getrokken kan worden, is de Overheid verplicht tot het retourneren van de onderzochte goederen.
 3. Zij, die in dienst van de Overheid, genoodzaakt zijn een actie uit te voeren welke volgens de wet verboden is, kunnen vanwege het noodzakelijk aspect, binnen de contouren van hun functie, niet aangeklaagd worden als zijnde in overtreding van de wet.
-   * Bovenstaande ontslaat hen in dienst van de Overheid niet van alle overige rechtsvervolging vanwege hun functie.
+   * Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
 
 ### A6 - Inbeslagname
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit misdrijf is verkregen, kan deze in beslag worden genomen.
