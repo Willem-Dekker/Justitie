@@ -10,8 +10,6 @@
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
 
-
-
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
@@ -51,11 +49,12 @@
 
 ### Artikel 1 Diefstal
 1. Een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
-| | | | | |
-|---|---|---|---|---|
-| **Eerste veroordeling**      | Hoge Raad Tedeapolis | | | |
-| **Tweede veroordeling**      | Algemeen Wetboek Tedeapolis 2020 | | | |
-| **Meerdere veroordelingen**  | Wetboek Tedeapolis| | | |
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
+| **Tweede Veroordeling**  |   | 30 uur  | €4,000  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | €5,000  |
 
 ## Titel II - Geweldsdelicten
 ![Titel II](https://i.imgur.com/U6KmYvP.png)
@@ -79,3 +78,8 @@
 ---------------------
 *Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
 
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
+| **Tweede Veroordeling**  |   | 30 uur  | €4,000  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | €5,000  |
