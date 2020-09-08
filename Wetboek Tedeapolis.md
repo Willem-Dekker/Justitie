@@ -36,7 +36,7 @@
 3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
 4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
 5. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
-6. Een straf kan kwijtgescholden of uitgesloten worden op basis van uitsluitingsgronden of bewijsbaar foutieve uitschrijving van de straf.
+6. Een straf kan geheel of gedeeltelijk kwijtgescholden of uitgesloten worden op basis van uitsluitingsgronden of bewijsbaar foutieve uitschrijving van de straf.
 
  ### A4 - Strafblad
 
@@ -44,17 +44,106 @@
 2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden, ingaand op de datum van de opgelegde celstraf.
 3. Wanneer een nieuwe overtreding of misdrijf wordt begaan, wordt deze tijd gereset naar de nieuwe datum van de laatst opgelegde celstraf.
 
+### A5 - Verduidelijking en algemene aanvulling
+1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld, behalve geld of informatie.
+   * Hieronder valt, onder andere, alles wat in de inventaris gevonden kan worden, alsmede voertuigen.
+2. Onderzoek, tenzij expliciet anders aangegeven, duurt in de regel maximaal twee (2) dagen.
+   * Als na deze termijn geen conclusie is getrokken of getrokken kan worden, is de Overheid verplicht tot het retourneren van de onderzochte goederen.
+
+### A6 - Inbeslagname
+1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit misdrijf is verkregen, kan deze in beslag worden genomen.
+   * De keuze voor inbeslagname is ter beoordeling van Politie, Justitie en/of de Koninklijke Marechaussee.
+   * Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
+2. Wanneer een voertuig in beslag wordt genomen vanwege een misdrijf:
+   * Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
+   * Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een misdrijf waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
+   * Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan gelegd worden, welke in directe zin gekoppeld is aan de reden van inbeslagname.
+  
+
 ## Titel I - Vermogensdelicten
 ![Titel I](https://i.imgur.com/QYoLGtN.png)
 
-### Artikel 1 Diefstal
-1. Een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
+### Artikel I-1 Diefstal (310 SR)
+1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
 | **Tweede Veroordeling**  |   | 30 uur  | €4,000  |
 | **Meerdere Veroordelingen**  |   | 60 uur  | €5,000  |
+
+
+### Artikel I-2 Diefstal met geweld / Overval (312 SR)
+1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
+2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 40 maanden  |  | €10,000  |
+| **Tweede Veroordeling**  | 80 maanden  |  | €15,000  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | €20,000  |
+
+
+### Artikel I-3 Afpersing (317 SR)
+1. Schuldig is een persoon die met dwang gegevens of goederen opeist van een derde.
+2. Schuldig is een persoon die met dwang een actie forceert of eist van een derde.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 50 maanden  |  | €7,500  |
+| **Tweede Veroordeling**  | 80 maanden  |  | €10,000  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | €15,000  |
+
+
+### Artikel I-4 Afdreiging / Chantage (318 SR)
+1. Schuldig is een persoon die gegevens of goederen opeist van een derde door bedreiging met smaad of openbaring van een geheim.
+2. Schuldig is een persoon die een actie forceert of eist van een derde door bedreiging met smaad of openbaring van een geheim.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** | 30 maanden  |   | €7,500  |
+| **Tweede Veroordeling**  | 45 maanden  |   | €10,000  |
+| **Meerdere Veroordelingen**  | 100 maanden  |   | €15,000  |
+
+
+## Artikel I-5 Verduistering (321 SR)
+1. Schuldig is een persoon die goederen, die niet middels een misdrijf verkregen zijn, maar wel toebehoren aan een ander, opzettelijk en wederrechtelijk toeëigent.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 20 uur  | €5,000  |
+| **Tweede Veroordeling**  |   | 30 uur  | €7,500  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | €10,000  |
+
+
+## Artikel I-6 Heling (416 SR)
+1. Schuldig is een persoon die een goed, afkomstig uit een misdrijf, verwerft of hierop aanspraak maakt.
+2. Schuldig is een persoon die voordeel trekt uit opbrengst van een door misdrijf verkregen goed.
+3. Niet schuldig is een persoon die redelijkerwijs geen weet heeft, of kan hebben, van de afkomst uit een misdrijf van het goed.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 20 uur  | €2,000  |
+| **Tweede Veroordeling**  |   | 30 uur  | €4,000  |
+| **Meerdere Veroordelingen**  |   | 60 uur  | €5,000  |
+
+
+## Artikel I-7 Witwassen (420bis SR)
+1. Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 60 uur  | €15,000  |
+| **Tweede Veroordeling**  | 60 maanden  |  | €20,000  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | €25,000  |
+
+
+## Artikel I-8 Geldige verklaring herkomst contanten
+1. Wanneer er tijdens aanhouding door Politie of Koninklijke Marechaussee van een persoon een geldbedrag, hoger dan €10,000 aan contanten, aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
+2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, is het de Politie of Koninklijke Marechaussee toegestaan dit bedrag in beslag te nemen voor onderzoek.
+3. Wanneer onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is Politie of Koninklijke Marechaussee gemaand tot restitutie.
+4. Wanneer onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
+
 
 ## Titel II - Geweldsdelicten
 ![Titel II](https://i.imgur.com/U6KmYvP.png)
