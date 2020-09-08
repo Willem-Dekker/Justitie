@@ -49,7 +49,13 @@
 ## Titel I - Vermogensdelicten
 ![Titel I](https://i.imgur.com/QYoLGtN.png)
 
-### Artikel 1 
+### Artikel 1 Diefstal
+1. Een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
+| | | | | |
+|---|---|---|---|---|
+| **Eerste veroordeling**      | Hoge Raad Tedeapolis | | | |
+| **Tweede veroordeling**      | Algemeen Wetboek Tedeapolis 2020 | | | |
+| **Meerdere veroordelingen**  | Wetboek Tedeapolis| | | |
 
 ## Titel II - Geweldsdelicten
 ![Titel II](https://i.imgur.com/U6KmYvP.png)
@@ -71,5 +77,5 @@
 ![Titel VI](https://i.imgur.com/AZq2R6s.png)
 ### Artikel 
 ---------------------
-Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.
+*Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Tedeapolis”, opgetekend door Bram Mosterdfiets, te Tedeapolis.*
 
